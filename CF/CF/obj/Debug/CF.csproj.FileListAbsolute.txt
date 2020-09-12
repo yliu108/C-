@@ -1,0 +1,10 @@
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.csprojAssemblyReference.cache
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.Form1.resources
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.Properties.Resources.resources
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.csproj.GenerateResource.cache
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.csproj.CoreCompileInputs.cache
+C:\Users\g6517\Desktop\C\CF\CF\bin\Debug\CF.exe.config
+C:\Users\g6517\Desktop\C\CF\CF\bin\Debug\CF.exe
+C:\Users\g6517\Desktop\C\CF\CF\bin\Debug\CF.pdb
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.exe
+C:\Users\g6517\Desktop\C\CF\CF\obj\Debug\CF.pdb
